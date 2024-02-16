@@ -1,0 +1,1205 @@
+=========================================
+             Sung-Hwa Hong
+           First Kyu: A Novel
+=========================================
+    OCR from russian translated back
+        to English using ChatGPT
+
+                  by
+
+           Code Monkey King
+=========================================
+
+TODO:
+Vuk -> Wook
+K$ -> KS
+"3" -> S
+Tea shop -> Teahouse
+Blood cough -> blood vommit
+
+AUTHOR'S NOTE
+
+Some consider me a mediocre player. Jimmy Cha and Hun-Hyun Cho often laugh at my weak moves. Others think I am a brilliant player. For Mr. Kim, Park's brother, and little Lee, the dream of life is to become as strong as I am. I am both strong and weak. I am a first kyu.
+
+When I wrote this story in Korea in 1992, my goal was to give people the opportunity to read a story about the first kyu. When I was offered to translate this story into English, I did not want to do it for two main reasons.
+
+Firstly, despite it seeming like a daunting task for someone whose native language is not English, I wanted no one but myself to translate the book, fearing that the spirit I put into the original would be lost in translation. Secondly, I did not believe that English-speaking readers would be able to appreciate this story properly due to cultural differences.
+
+Janice Kim, a professional player and publisher, however, convinced me to take on the job. She insisted that the book, at the very least, would present Korean culture more naturally than official propaganda.
+
+And here it is before you. I must admit that translating the novel into English was harder than writing the original in Korean.
+
+I would like to thank Janice and Richard for their efforts that made this book a reality. I also thank Roy Langston, a good friend and Go partner, for advice and support throughout the agonizing translation process.
+
+I even wonder: do the mystical Go gods smile upon me? All my life, I unconditionally loved this Game and did not expect anything in return. And yet... My love for this game allowed me to write this book. Yes, I am sure - they are smiling.
+
+BEFORE WE BEGIN
+
+Allow me to tell you a story. An old story, a very old story. Do you know how to play Go? Ah, you play at the strength of a first kyu. Really? Have you ever played in a professional qualifying tournament? No!? Then you are not a first kyu!
+
+I know, I know... nowadays, all the bad players call themselves first kyus. However, this story is not about those players. This is the story of a true first kyu.
+
+Near Niagara Falls, there is a tobacco shop owned by a man named Shin. On rainy days, he looks at the waterfall and mumbles something like this: "Should have raised the stakes in the ponnuki...".
+
+Do you know what he's talking about? No? Let me tell you. Few know this story. Listen.
+
+THE OLD MASTER
+
+On a winter evening, in early 1940th, the leading players of Korea gathered in the living room of Lord Cho's house to meet with a Japanese professional player, a master of 8-dan, Kitani Minoru. Despite it being a friendly visit, the atmosphere in the room was tense due to the competition that existed between the two countries for centuries. The rivalry filled the air much like the scent of tobacco would if everyone in the room were constantly smoking.
+
+But after a while, the sense of rivalry turned into embarrassment - even with a two-stone handicap, none of the Korean players could win a game against the Japanese professional. However, this was not surprising given the history of the development of the game in both countries. In Japan, since around the 19th century, the government supported and encouraged professional players and Go training schools. In Korea, Go was considered one of the aristocratic games for leisure, with no efforts made to develop or spread the game beyond privileged classes. Therefore, it was not surprising that the so-called leading players of Korea were losing one after another, even with a two-stone handicap, to one of the best professional players in a country where the game had evolved over centuries.
+
+At first, the Koreans in the room still believed that at least one player would manage to win against the Japanese master. But after the four strongest players: Ro, Yun, Min, and Cha lost their games, no one expressed a desire to play the next game.
+
+When the host of the house, Lord Cho, asked:
+
+— Who would like to play the next game? — there was dead silence.
+
+"Perhaps that's enough for today," thought the host. "But what to do now? It's still quite early for dinner..." Lord Cho felt awkward. The pause became unreasonably long, and then a low but decisive voice sounded from the corner:
+
+— Sir, may I suggest the next game?
+
+Master Kwon was a well-known player in his younger days after several games with Master Ro, a leading player of his time. But now, at the age of sixty-five, Kwon had not played serious games for a while. Today, he was present not as a player but as a journalist. He wrote a Go column in the daily newspaper and intended to write an article about the visit of the Japanese professional to Lord Cho's house.
+
+But what could he write about this timid silence?
+
+Yes, it was simply cowardice, a reluctance to play due to fear of defeat. Why not try, why not attempt, to win against this Japanese player?! Without playing, one cannot win! In a game like Go, even the impossible is possible if one has enough dedication and discipline. Master Kwon could not contain his fighting spirit, the same spirit that helped him win many games in his younger years against tougher opponents.
+
+Lord Cho cautiously welcomed the bold proposal of the old master. As the host, he, of course, wanted to salvage the evening, but as a Korean, he felt irritation at the prospect of another defeat.
+
+Lord Cho held a pause and very gently asked:
+
+— Two stones might be too little. Perhaps, Master Kwon, you would like to play at three stones?
+
+Desperation echoed in his voice. Surely, he desired victory by any means. But such a suggestion was extraordinary. Honor and pride were valued above all by these players, and playing at three stones was a match between a teacher and a student, not a friendly game between the strongest players of two countries!
+
+But what if Kwon loses even at three stones? He would never be able to call himself a master again — an unimaginable humiliation! Lord Cho had gone too far this time. But this was Lord Cho, one of the most influential people in the country. No one dared to oppose him.
+
+All eyes turned to Kwon. Will he accept this proposal or not? Closing his eyes, Kwon spoke slowly:
+
+— You all know that playing at three stones does not befit the status of an international friendly match. However, I cannot reject Lord Cho's proposal, as I am one of the grateful recipients of his generous support, both material and spiritual... Yes, I will play as suggested. But I will also show you how inappropriate such a handicap is, winning the game confidently and convincingly.
+
+The game began. Kwon hardly spent any time contemplating. He made each move almost immediately after Kitani's stone touched the board. The sixty-five-year-old Kwon was highly spirited and angry. Angry at having to play with an unreasonably large handicap, angry at the Koreans who couldn't win even a single game against this Japanese opponent.
+
+On the other hand, Kitani Minoru, 8-dan, played as expected, quite professionally, carefully considering each move. The game continued for over three hours, with Kwon using most of that time.
+
+A three-stone handicap gave Kwon a significant advantage. The game was nearing its end, and Kwon's position was convincingly better. The Japanese master did not give up and tried to narrow the gap, but no one believed that Kitani would win the game — Kwon's advantage was too great. Then it happened. Overconfident, Kwon ignored Kitani's ko-threat.
+
+Ko is a Buddhist term, signifying eternity. In Go, it means the sequential taking of one stone. To avoid repeating the position, a ko-threat must be played elsewhere. Kitani's incorrect response to the ko-threat led to the death of one of Kwon's large groups.
+
+How could the master make such a mistake! No one in the room could believe their eyes. The game was decided: perhaps unfairly, but definitively. The old master stared at the lower right corner, where his dead group stood, hoping to find a miraculous move that would bring the group back to life. But there was no such move.
+
+After a few minutes of silence, Kwon resigned. The formalities — removing stones, exchanging bows — Kwon performed mechanically and then left Lord Cho's company.
+
+On the doorstep of his home, he collapsed. Anger, disappointment, humiliation, regret — too many emotions for a sixty-five-year-old man. From that day on, he remained in bed and never recovered. Three months later, the old master passed away.
+
+FAVOURITE
+
+"Why do only girls and bad players keep asking for more after they've been killed once again?" muttered Vuk. He felt the crumpled wad of money in his pocket that he had won tonight. It was a play on words, as the slang term for a woman's role in sex and the starting cut on the Go board was the same. He smiled, satisfied with the memory of Madame Kang, who became "killed" several times a few nights ago, and the countless "dead" groups of Sir Stupilo during the games last night. She and he demanded the next date as soon as possible. Yes, a remarkable resemblance between girls and bad players. Vuk noted it with surprise.
+
+He pulled out the crumpled money, approximately fifty thousand. Not bad. He stuffed the money back into his pocket. With this money, he could buy five hundred packs of "Spizz." Buying cigarettes added confidence and satisfaction. Vuk quickly left the motel, caught a taxi, and, instructing the driver, went to a luxurious sauna. Today he could afford a private room, consisting of a huge bath and an adjacent bedroom. Hurriedly undressing, he immersed his body in hot water and understood the Creator's feelings on His seventh day.
+
+He pondered what to do on Sunday. It was only eleven in the morning. Perhaps, he should take some time to sleep and relax. He earned a break. Then he would take Iku to have some good beer tonight, not the cheap soy-based liquor sold at every roadside kiosk. And he wouldn't go to Sir Stupilo today.
+
+Vuk was a fan of boxing and remembered Liston. How difficult it was for him to step back into the ring against Clay after the defeat! However, losers deserved suffering.
+
+Someone knocked on the door. It was the masseur — a blind young man in his twenties. Vuk was a little scared, perhaps because the masseur was blind, or perhaps because Vuk subconsciously feared strangers. But, comforted by the familiar surroundings, Vuk relaxed on the king-sized bed and allowed the blind masseur to work on his tired body. The masseur worked professionally, energetically, yet soothingly. The feeling of fatigue slowly faded, replaced by a sense of bliss. The noise of an anti-government student protest echoed in the distance. It annoyed him a bit, but not for long. Vuk drifted into a deep and peaceful sleep.
+
+Vuk Kwon was born in the winter of 1950 during the Korean War, a time when there were rumors that China was preparing to invade South Korea to assist its ally, North Korea. Vuk grew up in the post-war chaos when the socio-economic atmosphere of the country was extremely unstable.
+
+His father, Mr. Kwon, was a shrewd businessman who could provide for his family. While most children needed food, shoes, clothes, or just love, Vuk's childhood was relatively carefree.
+
+Mr. Kwon was an unwavering authority in the family. Good education and exemplary behavior were strict requirements imposed on his children. Vuk was an exception. His father allowed him to do things his brothers and sisters could only dream of. Perhaps it was because Vuk was the youngest child born when his father was already forty. Moreover, Vuk was a son, not a daughter. Vuk had two brothers and two sisters. Like in baseball with a 2-2 count, Mr. Kwon, like any good pitcher, wanted the third pitch.
+
+Although Mr. Kwon made some concessions for Vuk, he always felt that his father was much stricter than the fathers of his friends. Apparently, Mr. Kwon expected great success from his youngest son.
+
+In Korea, students who wanted to enter higher education institutions started taking entrance exams from the sixth grade of middle school. Schools in Korea were classified, although unofficially, based on the academic abilities of their students. There was a "top school," followed by "one of the best schools," "good schools," "average schools," "below-average schools," and "bad schools." This classification influenced future careers, marriages, and social status. Those who graduated from the best schools and universities were often called "K$ people," where "K" and "3" were the initials of two schools.
+
+The Kwons were known as a "K$ family." Mr. Kwon didn't even consider "one of the best schools" for his children. It had to be only the best school! Fortunately, the children were intelligent and hardworking — prerequisites for attending the best school. Two sisters and one brother of Vuk were already "K$ people." The second brother was a sophomore at "K$ University." Vuk was in the first grade of "K$ School."
+
+Mr. Kwon had nothing to complain about his children, provoking envy among friends and acquaintances. His youngest daughter easily passed both school and university exams with top grades. Even the city newspaper published an article about the "family of geniuses."
+
+Three goals later, Vuk entered "B" University, and Mr. Kwon's ambitions were satisfied. Vuk was also a good student. Of course, Vuk's father would not be disappointed. For the Kwons, Vuk's graduation exams were just a formality. In three years, a record must be set: five out of five children will become "K$ people"!
+
+Imagine yourself on the shore of a calm lake. Clarity and peace reflected in the tranquil lake soothe. But what happens when a stone, thrown from an unknown source, lands on the mirrored surface of the water? The Kwon family was like this lake that everyone admired and used as an example. But then a stone called "the game of Go" came flying.
+
+Until the late eighties, student anti-government assemblies gathered every spring in Korea, held in almost all schools. Cynics called it an "annual ritual." Anti-government assemblies during Vuk's time were quite primitive; neither students nor the police had experience. There were no things like "Molotov cocktails," rubber batons, or even worn-out gas masks. The typical scenario of "student riots": students gathered on the street and sang until the police arrived. The police used tear gas, and the students ran away. No serious injuries or arrests. Everything was peaceful enough. Compared to demonstrations in later years, the "riots" at that time were rather romantic.
+
+On that day, one of these assemblies was taking place. On his way to school, Vuk encountered the demonstration just when tear gas grenades had been used, and students started running away from the police. What could the naive 15-year-old Vuk think? Students were running from the police, so he, too, should run. Frightened, Vuk ran as fast as he could, away from the police. He wasn't one of those chased by the police, but it didn't matter. He ran and ran. After a while, he found himself in a fairly quiet neighborhood. Breathing heavily, he looked around: no police, no running students. Still afraid, Vuk wanted to find a place to hide. He saw a sign: "Chunjin Go Club." In search of shelter, he went inside.
+
+He saw a few pairs playing Go at 10. Suddenly, a strange shiver ran through his body. It was mysterious, yet a satisfying feeling, similar to what he experienced a couple of nights ago—a pleasant excitement.
+
+Certainly, he had seen people playing Go in various places before. But this was different. Here, all the players sat in the same posture, with identical serious expressions on their faces, playing Go where no other games were played. Vuk sensed that the game of Go he had seen before was distinct from the one he was observing now. A sudden desire arose to learn how to play.
+
+A middle-aged man, apparently the club owner, approached Vuk.
+
+— Hi, how skilled are you at Go?
+
+— Well, I don't know how to play.
+
+— Are you looking for someone?
+
+— No. I came here to learn to play.
+
+Vuk surprised himself hearing those words. Understanding that it was precisely what he was thinking at that moment, he gathered courage and looked the man in the eyes, as if demanding an answer.
+
+— Really? Good idea. This is the best game invented by humans. Let me give you a lesson right now.
+
+The kind offer from the owner suddenly made Vuk realize that he was expected at home.
+
+— Thank you. I'm sorry, but I have to be home. Can I come another day? — Vuk felt discomfort in the inconsistency of his actions. However, the man didn't object.
+
+— Of course, no problem. To start with, I'll give you some Go books. I know many strong players from the "K" school. Not surprising, the best students can be the best in Go too. — He seemed pleased with Vuk's uniform from the top school.
+
+The two books he gave Vuk were titled "First Steps in Go" and "Elementary Go Theory." Hurrying home, Vuk felt like he was carrying a treasure.
+
+At first, the books were incomprehensible to Vuk, but he was still interested in reading. He read both books in one go.
+
+From the next day, Vuk came to the Go club every day. In July, before the summer break, Vuk became a 9th kyu. Student ranks in Go start from 18 kyu and progress to 1 kyu, or the first dan. Then players can become masters (dan) and rise to 9 dan. Achieving 1 kyu for most people is an impossible task. Achieving 9 kyu in a few months is remarkably fast progress.
+
+When summer vacation began, Vuk became a regular at the new Go club "Dong-A," closer to home. The newly minted player spent the entire summer vacation there. As soon as his father left for work, after having breakfast, Vuk ran to the club and stayed until closing time, around 11 PM.
+
+Mr. Kwon learned about his son's interest but didn't attempt to hinder it. He didn't consider Go a threat or danger. He felt it was better than typical teenage behavior like loud music and hanging out with friends. Vuk sensed this silent approval and diligently attended the club. The worst reaction he faced was occasional disapproving comments like, "Go is a game for retirees, not young people like you."
+
+Mr. Kwon was aging. At fifty-five, his character had significantly softened. Vuk's brothers and sisters were pleased that Vuk avoided troubles by spending his days in the club.
+
+Fortunately or unfortunately, circumstances allowed Vuk to focus on studying the game. At the end of the vacation, after just five months of practice, he achieved the sixth kyu, surprising everyone in the club with his rapid progress. Undoubtedly, Vuk possessed a certain talent.
+
+The stone thrown into the lake created a small ripple.
+
+FIRST KYU
+
+Nowadays, achieving the first kyu isn't difficult; the number of players has significantly increased over the years. However, the increase in quantity often diminishes quality, and the first kyu doesn't command the same respect it did thirty years ago. Achieving the first kyu was a rarity in the 1960s.
+
+The owner of the 'Chunjin Go Club' once told Vuk, 'A first kyu can reconstruct the entire game from memory if someone knocks the stones off the board. We have a first kyu in our club. He's not here today, but you'll definitely see him.'
+
+Soon, Vuk encountered the first kyu. The club owner had 7 kyu compared to Vuk's 15 kyu, giving him a nine-stone handicap. However, on that day, the first kyu played against the owner, receiving, instead of giving, a nine-stone handicap!
+
+The first kyu was a young man in his twenties, slim and pale. Almost everyone in the club gathered to watch the game. Judging by sighs and sweat on the owner's face, it seemed like he was losing. When he finally resigned, the first kyu stood up, stating he had to leave. The owner pleaded for him to stay, but the first kyu, smiling, politely declined, promising to return soon. The owner went to his office and brought back several packs of 'Speeda' (the most expensive brand of cigarettes), and, after a few ceremonial refusals, handed them to the first kyu. Vuk noticed he wore an old suit with patches on the elbows. But that didn't matter; he was like a Christ in the flesh, or even more. How to become the first kyu? How to become a god?
+
+As Vuk started attending the club more frequently, he met several first kyus. A bald middle-aged man, a young man in his twenties wearing a beret, an old man with a cane. They all looked different but commanded the same respect from other players. When they played, everyone watched in dead silence. When they spoke about the game, everyone listened attentively. They were all poor.
+
+In Vuk's new club, 'Dong-A,' there was also a first kyu. Nobody knew his full name, and people simply called him Master Lee. He resembled a fugitive: worn-out black army pants, rubber boots clearly too big for him, and hair in need of a urgent cut and wash. But his appearance didn't matter once he entered the club. Everyone addressed him as Master. He came to the club rarely and played only a few games each time. His games always attracted attention. All games were with a handicap against weaker players, and Vuk never saw him lose. In the most unlikely situations, he always had a move that resurrected him, seemingly killed groups of his opponent.
+
+After each of his infrequent visits, he would leave the club with a few packs of expensive "Speeda" cigarettes given to him by the club owner. Upon receiving the cigarettes, he would hurriedly open a pack and take a drag, as if he hadn't smoked for a very long time. He never discarded his own cheap "Zoom/Map" cigarettes; instead, he carefully placed them in his breast pocket and then left the club, puffing the expensive smoke with an air that suggested he wouldn't be seen here again, at least for a few days.
+
+August was coming to an end. To Vuk's irritation, the summer vacation was drawing to a close. His daily visits to the Go club would soon have to stop. That morning, Vuk came to the club as usual. It was still early, and there were not many players. Vuk joyfully spotted Master Lee playing in the corner. Fortunately for Vuk, there was no usual crowd of spectators nearby. Only Mr. Chang, who played at Vuk's level – 6 kyu – was enjoying a vacant spot "near the ring." After a small but polite bow, Vuk sat next to the tailor. Mr. Chang greeted Vuk with a wide smile.
+
+Master Lee was playing with a boy of the same age as Vuk. Vuk wondered how many handicap stones the boy was taking from Master Lee, but he was surprised to see that there was no handicap at all. The boy, no older than Vuk, was playing an even game with Master Lee! What was even more astonishing, Master Lee clearly had problems. Master Lee, who had never spent more than a few seconds on his move before, was now deeply in thought. His gaze wandered distractedly across the board. Vuk had never seen anything like it before.
+
+After a long pause, Master Lee sighed:
+
+"I surrender. The group cannot be saved."
+
+Master Lee had just lost the game! And to a child! It was unbelievable.
+
+But what followed was even more surprising. It all started with Mr. Chang's innocent question:
+
+"Master Lee, couldn't you have saved the group by simply escaping instead of cutting?"
+
+Lee indecisively replied:
+
+"Well, maybe..."
+
+But the boy suddenly interrupted:
+
+"I don't think so. Extension loses one liberty."
+
+The tailor chimed in:
+
+"I think having two eyes makes it a ko."
+
+The boy raised his voice in irritation:
+
+"Sir, how strong are you? I'm a second kyu, and I think the group couldn't survive!"
+
+Dead silence fell. It might have been wrong for Mr. Chang, a weaker player, to insist on his assumptions, but for the boy who raised his voice against a man who had just lost a game, it was unforgivable. It didn't matter who was right; in Korea, disrespect towards elders was the worst form of behavior.
+
+The sudden sharpness of the boy embarrassed Mr. Chang. To conceal his feelings, he began fumbling in his pockets, as if searching for cigarettes. Master Lee broke the silence:
+
+"Dong! You better apologize to Mr. Chang right now. Such behavior is unacceptable, especially among players."
+
+The boy named Dong muttered a few words of apology. However, obviously offended, he quickly stood up and left the club.
+
+"Nothing serious, nothing serious. It was my mistake! Can a 6 kyu give advice to a master!" the good-natured tailor's response defused a situation that could have turned much worse. Master Lee suggested a teaching game, as if compensating for the insult, adding:
+
+"This child will soon be a great player. Remember my words! He has what a good player should have: courage. Although from time to time, he behaves improperly... Besides, he insists that he is a second kyu, although there are few first kyus better than him. Yes, he is a second kyu, a professional! Ha-ha-ha!"
+
+"What does professional mean, Master Lee?"
+
+"He is an insei of the Korean Go Association. He has his own ranking system from 12 kyu to 1 kyu. Their ranks change every month based on tournament results. The ranks differentiate their positions relative to each other, but an insei at 12 kyu is as strong as a 1 kyu in the outside world."
+
+"So, an insei at 12 kyu can beat you, Master Lee?"
+
+"Of course! I've lost many games to insei at 11 and 12 kyu."
+
+Vuk suddenly felt a strong headache. His goal was to become a first kyu like Master Lee. But what was this nonsense about insei? It seemed like Go had no upper limit: mastering one ladder required climbing another to become a strong player. Vuk wanted to meet Dong again. He was roughly the same age and could be a friend. He could share many secrets of the game. However, Dong did not return to the club until the summer vacation ended.
+
+Progress slowed as a player became stronger. Vuk's rapid rise to the rank of 6 kyu had stalled, despite all attempts to improve. It took him another five months to become a 3 kyu. The third kyu was considered a good player, entitled to demand respect from other players.
+
+To reach the third kyu, Vuk sacrificed every spare minute, studying games of professional players and searching for rare books in second-hand stores. Although Vuk was annoyed by his slow progress, the fact that he achieved the strength of the third kyu in less than a year was a significant rarity.
+
+Meanwhile, Vuk's performance in school significantly declined. Mr. Kwon, who had previously looked favorably on his son's hobby, began to frown.
+
+"Son, Go is for those who want to kill time, for idlers and the unemployed. But not for young people who must work hard and study! I hope you understand that our family's reputation could suffer because of you. I hope you're not planning to disappoint me?"
+
+Although Vuk's academic performance worsened, it wasn't to the extent that Mr. Kwon became seriously concerned. Senior Kwon still believed that Vuk would come to his senses.
+
+Contrary to his father's wishes, Vuk's life now revolved solely around the game. The third kyu was a good player, but the path from the third kyu to the first required great efforts. People who stopped at the level of the third kyu were much more numerous than those at the first kyu level. To achieve the first kyu, one needed not only time and hard work but also talent and inspiration.
+
+It took Vuk another year to reach the first kyu. But he did it! On the day Vuk won his tenth game in a row against Master Lee, Vuk also became a Master. People started calling him "Master Kwon" or "Kwon - first kyu."
+
+During his second year of school, Vuk matured significantly. He grew taller and more mature. In addition, he achieved a prestigious status in Go. In two years, Vuk changed a lot.
+
+Now that he was a first kyu, the desire to meet Dong grew. Strangely, he never encountered Dong again since their first meeting. Vuk asked Master Lee how strong Dong was.
+
+"Well, on two stones, you'll probably win, but on one - no."
+
+Very strong. Practically unbelievable, thought Vuk. Now he was confident that he could put up a good game on two stones even against a strong professional player. But according to what Master Lee said, Dong was almost as strong as a professional. Yet, Dong never became a professional. Vuk didn't quite understand. This indicated that he still had much to learn. Overconfidence is one of the characteristics of weak players.
+
+Vuk was still weak.
+
+The "Dong-A" Go club was forced to close. In those days, owning a Go club was not a reliable business. The main source of income for most clubs was the daily entrance fee of 30 won, allowing players to stay in the club for an unlimited time. Regardless of the number of games played or the time spent in the club, the 30-won fee did not cover the club owner's expenses such as rent and, say, the salary of the caretaker. The owner of "Dong-A" decided to close the club when he owed rent for several months.
+
+Not far from "Dong-A," there was another club called "US," located in the market area on the second floor of an old deteriorating building. It was much smaller than "Dong-A," but the worse conditions actually gave "US" an advantage: the rent was much lower than that of "Dong-A." Moreover, there was a small room hidden behind the main hall in the club where poker and other card games with low stakes were played 24 hours a day. This brought the owner of "US" much more income than the 30 won he collected from Go players for entry.
+
+Before the bankruptcy of "Dong-A," few people went to the "US" club because of the worse playing conditions and atmosphere. Now, however, "US" became the only place where local players could gather. The owner of "US" decided to welcome new members by announcing a tournament sponsored by himself. The tournament announcement created expected excitement among players, even though the prizes were bags of rice and Go books. When a man brought home a bag of rice, his wife understood why he devoted so much time to the game. Players rarely bought Go books for themselves, so book prizes were also appreciated. But prizes weren't the main reason for the excitement. Players simply loved tournaments.
+
+Naturally, Vuk began participating in his first tournament. Vuk was surprised to see Dong at the tournament, with whom he hadn't crossed paths since their first meeting. In a year and a half, Vuk had grown from the sixth kyu to the first kyu, while Dong registered as a second kyu.
+
+The tournament had three groups, each playing with handicaps. In Group A, where Vuk played, participants ranged from the first to the fourth kyu.
+
+As the tournament progressed, potential winners and favorites started to emerge. In Group A, Vuk and Dong were the only ones without losses, and they were set to play against each other to determine the tournament winner.
+
+Since Dong entered the tournament as a second kyu, he played with black without komi. Vuk was nervous about whether he could defeat Dong, because then he will become the best player in this part of the city. The prospect of such fame gave him the necessary support. Dong seemed a bit puzzled that his peer had a first kyu, but he took a bowl of black stones and bowed to Vuk, suggesting to start a game.
+
+Although Dong remained a second kyu, he had noticeably changed externally. His hair was neatly combed, and a pack of cigarettes in the shirt pocket made him look almost like an adult. He had also grown taller. Vuk was so surprised by Dong's appearance that he struggled to focus on the game.
+
+Dong was strong. The energy of his stones, supported by deep calculation, dominated the board. Vuk remembered what Master Lee had said, that Dong was almost two stones stronger than Vuk.
+
+The game ended, almost not starting. Seizing the lead by about ten points early in the game, the black stones didn't give a chance to turn the game around. Vuk resigned. After Dong took the black stones, the game didn't go well. Dong won the tournament. Players started to disperse. Winners went home to boast about their prizes, and losers went to the "Double Widow" bar to drown their losing moves.
+
+Vuk was tired and about to go home to rest. He was already at the exit, along with his prizes—Go books—when he heard Dong's voice:
+
+— Don't you want to play again?
+
+Of course! But it seems you play stronger... - hinted Vuk about Dong's inaccurate rank.
+— Maybe we'll play on equal terms? — suggested Vuk after a short pause.
+
+Fine, sir! - Dong's tone was distinctly polite: "Sir." Vuk felt awkward.
+The drawing gave black stones to Vuk. He sighed with relief—black color would at least give him some chance to win. The tension, which seemed to disappear after the first game, was returning. Vuk placed the first stone in the upper right corner...
+
+The game entered the middle stage when a young man entered the club. He and Dong exchanged brief greetings. Vuk thought it must be Dong's friend. Sitting by the board, the young man paid no attention to the position. Vuk thought that Dong's acquaintance was definitely not a Go player, just someone who came to meet him. The suit and the cigarette in his mouth made him look older, but the pimples on his face indicated that he was underage. After a while, he looked at Vuk for the first time and exclaimed:
+
+Are you Vuk? Didn't recognize me? Iku_Iku - from the elementary school?!
+
+Yes! Now I remember. You've changed. I didn't recognize you right away, - replied Vuk.
+
+Vuk, the strongest in the school, was respected by characters like Iku, the troublemakers. They had something in common. Vuk was delighted to meet his old friend.
+
+— Are you this guy's friend? — nodded Vuk towards Do-ya.
+
+This guy? Oh, my God! Don't talk nonsense! He just follows my orders to stay alive. Hm-m... I guess you could call him my friend. Anyway, guys, do you really want to continue wasting time on this boring game? On the day when old friends reunite after a long separation?!
+Vuk and Dong looked at each other and began to gather the stones. Dong was winning, and both knew it.
+
+Where do you want to go, Iku? Especially for a new person... — asked Dong with a smile. He was also pleased with the opportunity to get to know Vuk better.
+— Come on, guys, cut it out: this guy and that guy! Relax! Today is February 8, 1968, at seven thirty-four in the afternoon. I order you to be friends. Execute it immediately! Ha-ha-ha-ha...
+
+So Vuk and Dong became friends.
+
+NEW FRIENDS
+
+From that day on, the three of them were together. Vuk learned that both Dong and Iku dropped out of school last year. They told Vuk that they became friends after bumping into each other on the street.
+
+Because of school, Vuk couldn't be with them all day and limited the company's actions. For instance, Vuk couldn't wander around with them during the day. Also, there were places like tea houses where students, especially in school uniforms, were not allowed to enter. When Vuk was in his school uniform, they couldn't freely smoke. Despite the friends not objecting to these minor inconveniences, Vuk, against school rules, stopped wearing the uniform. Vuk looked more and more like his two friends. He acquired a taste for alcohol and tobacco, which would have made Mr. Kwon furious if he found out.
+
+Moreover, Vuk liked that he could often play Go with Dong, which had an impact on the strength of his game — he could now show a good game with black stones without komi against Dong.
+
+For Vuk, Iku was an amazing person. He had several girlfriends, most of whom were older than him. In the days when Vuk and Dong couldn't go with him, he could drink alone in a bar. It was Iku who showed Vuk the "real" bars. For Vuk, Iku lived in a different world.
+
+One day, Vuk and Dong were sitting in a tea house. They had just played a few games, and they had about an hour of free time before meeting Iku at the "Renaissance" music club. Since there was no time to play another game, they decided to relax, smoke, and have a cup of coffee. Dong told Vuk that he no longer played in sey tournaments. He left because there were too many strict rules and instructions, and they were closely monitored. If a player in sey, for example, avoided recording a professional game, they were not allowed to play in the next tournament, which determined their status for the whole month. Leaving was easy, explained Dong, but no one is accepted back. Yet he left.
+
+— Don't get me wrong, Vuk. I continue to study the game very seriously. I can progress on my own!
+
+But in Dong's voice, Vuk heard hesitation. In fact, Dong looked scared every time the qualification tournament was mentioned. Vuk didn't quite understand Dong's fear; he was sure that a player of his strength shouldn't have any problems becoming a professional. No first kyu - Vuk knew wasn't as strong as Dong.
+
+Professional or master qualification tournaments organized by the Korean Go Association were held twice a year in spring and autumn - this was the only way to become a professional. The two winners of such a tournament became contenders for the professional first dan diploma. Usually, the total number of participants in the tournament was around three hundred, so becoming one of the top two was extremely difficult. However, contenders considered themselves lucky because a few years ago, the rules were much stricter. Previously, only one player became a professional in each tournament. Vuk wanted to learn more about the qualification tournament, not just the well-known facts and rules.
+
+Is it really so difficult to become a pro, Dong?!
+
+Vuk cautiously brought up this topic again, and looking into Dong's eyes, he saw how he darkened.
+
+— Yes, it's difficult... very difficult...
+
+— But, Dong, a strong player like you should have easily won this tournament.
+
+Dong remained silent.
+
+— Are there really so many people who play stronger than you?
+
+Dong frowned and stayed silent.
+
+— Didn't you say you could play against the strongest pros at two stones?! How many people there can be stronger than you?
+
+Dong still didn't bother to answer.
+
+— Honestly, I was thinking about playing in this tournament...
+
+Dong exploded:
+
+— You?! You stand no chance!
+
+— Why not? If I put in a little effort, I could...
+
+— Never! *
+
+Am I such a bad player?! You know, I'm also a strong first kyu!
+Vuk was slightly offended. Dong could have answered more diplomatically.
+
+— Okay, I don't want to offend you. I'm just telling the truth. There are hundreds of players who play at the professional level. I'm sure you're a strong player too. But, besides strength, you need luck. How many really strong players haven't become professionals just because luck wasn't on their side! And for you, Vuk, even strength won't be enough. My best result in this tournament was advancing to the next round of the preliminary tournament. And to enter the main tournament, you have to go through three preliminaries!
+
+You know what surprises me, Vuk? Why the hell do you want to become a professional? You study at the best school, you come from a wealthy family... I have none of that. Becoming a pro is the only way for me to succeed in life. You're a good player, a strong first kyu. People will respect you more if you succeed in other things. You have a great future in the regular world... Okay, look at the time. We're late. Iku is waiting for us with the girls!
+
+Vuk remained puzzled. But they needed to hurry from the tea house to "Renaissance." They rushed off. Meeting Iku was always exciting. What did he have planned for today? Soon, both friends forgot about such unpleasant things as the qualification tournament and school.
+
+In "Renaissance," Iku sat with three girls around their age. The girls looked like high school students but tried to appear more mature. Naive Vuk and Dong didn't approach the group but sat in a corner, watching Iku from a distance.
+
+After a moment, Iku ran up to them:
+
+— What are you doing here?! I saved these chicks especially for you! They're volleyball players from "5" girls' school. Come with me, lively! Why do I have to spoon-feed you all the time? Let's go!
+
+Vuk felt awkward, but he was excited. The girls were pleasant and cheerful. Vuk and Dong were inexperienced in this matter, so Iku's "spoon-feeding" was appreciated once again. Soon, the six teenagers were noisy enough to draw frowns from the neighboring tables. Visitors to "Renaissance" came to listen to classical music, preferably in absolute silence, so the new acquaintances left. They headed to the "Roman Bakery," where not only talking but shouting was allowed.
+
+They ordered ice cream. The conversation became noisy and more interesting. Iku continued to play the role of the leader, and it seemed like the group had known each other for months. Iku's imagination was boundless.
+
+Ladies and gentlemen! The way we're sitting is against national tea etiquette; it's too nonsensical. We must turn the group of six people into three pairs. I suggest drawing lots. I understand, all the girls want to be with me, but alas, I can't fulfill these wishes.
+
+— Yes, he's not embarrassed at all!
+
+— I wonder if I could ever become so cheeky?
+
+— At least we'll each get a partner.
+
+Iku's proposal was met with reluctant approval from the girls, and they tore a napkin into six pieces, writing names on it.
+
+After the "drawing," they paired up. A tall girl named Inae became Vuk's partner. An awkward silence fell. It's one thing to casually chat in a group, and another to get to know a girl. For a seventeen-year-old boy, it was a significant difference. Iku decided to break the ice.
+
+— Inae! You're lucky. Your partner is a student at K-school!
+
+— Yes, and his father is the President.
+
+Inae looked at Iku. But Iku stood his ground.
+
+— I'm serious! He really...
+
+— Iku, why do you have to talk about this? Stop, please! - interrupted Vuk. He thought that when Dong or Iku were around, it was better not to mention it. But Vuk's unexpected revelation, on the contrary, convinced Inae.
+
+— So it's true?! You really are from "K" school? - exclaimed Inae.
+
+— Yes, but I don't think it's interesting.
+
+— It's very interesting! Hey, Sok! Look! Did you hear? He's a student at K-school!
+
+The girls' glances were surprised and envious, which surprised Vuk. He never thought that his social status could impress girls. In his family, it was a common fact.
+
+However, the envy of the girls didn't last long. It seemed they were happy with their partners. Dong was talking to Sok the whole time. After several trays of donuts and buns, Won suddenly shouted:
+
+— Oh my God! I have to go! My older brother will kill me if I come home after nine. And it's already ten! Ah-ha!
+
+This statement dispersed the new acquaintances. Won's life, however, was nothing to be afraid of—she continued talking:
+
+— Iku, Dong, Vuk, come the day after tomorrow to the Chang stadium at seven in the evening. We'll be playing in the semifinals. We need your support!
+
+— Vuk, will you come? — winked Inae. — Will you wear your school uniform?
+
+Chuckling, the girls hurried out of the "Bakery."
+
+The young men went back to the "US" club, excitedly exchanging impressions. Iku taught his friends strategies for dealing with girls.
+
+Inae liked Vuk. She liked him right away. She was the first girl he knew personally. Before this, all his experience with girls was limited to school-sanctioned group meetings, which allowed boys and girls to meet in groups. It was different. And she had beautiful big eyes.
+
+Vuk thought about her request to come in a school uniform. It wasn't a good idea. How would he look next to Iku and Dong, who dropped out of school and weren't too proud of it? Vuk decided to go to the game but not in uniform. There was nothing special about studying at K-school, he reminded himself constantly.
+
+PARK INAE
+
+Outside the stadium, a huge flag from the national volleyball championship for girls greeted three fans.
+
+(Today's game was a semifinal - the girls from "5" and "P" schools were playing.)
+
+"No one is allowed in the female locker room and the adjacent area. Wait until the game is over."
+
+Experienced Iku easily led his friends to the stands and found three standing places in the supporters' section of school $. There were quite a few people, mostly girls from both schools.
+
+Vuk smiled awkwardly, imagining how he looked in his student uniform. He tried to explain to himself, justify his strange behavior. The old jacket was in places with holes and looked provocative, but hadn't he worn this jacket before without considering it indecent? He contradicted his own reasoning time and again. In the end, he had to admit that he wore the High School uniform to show off. Perhaps he wanted to please Inae. Maybe he wanted to show her his superiority. Maybe he considered Inae more important than Iku and Dong. Now Vuk regretted his foolish behavior.
+
+A sharp whistle sounded: the game was starting. Players from both teams lined up in front of the net, facing each other. Inae, Won, and Sok were on the court. After shaking hands, the girls took off their warm jackets and took their positions on the volleyball court.
+
+Watching Inae play, Vuk was surprised to find that volleyball and Go were quite similar. Inae on the court was drastically different from the girl he saw the day before. She was in excellent shape, combining everything needed for a good game: trained muscles, speed, skill. Inae looked composed and tense, just like he was during a Go match.
+
+Watching her play, her skill, physical form, Vuk felt ashamed. He had never succeeded in sports. He felt embarrassed about his affiliation with the high school. The very idea of showing off by wearing the school uniform now seemed utterly foolish to him.
+
+The game was exciting. After each team won one match, the most exciting events began. To Vuk's horror, in the third, deciding match, in a tense and equal struggle where every point was crucial, school $ had to concede with a minimal gap in the score - 14:16. Inae and her friends were ready to cry - they had just suffered a bitter defeat.
+
+"Let's go to the locker room!" - Iku, indifferent to the game's outcome, was only waiting for this moment. Vuk and Dong hurried after him towards the exit.
+
+The girls came off the court, disappointed and tired. Spotting Vuk waiting for her, the sad Inae brightened up:
+
+"You came! Sorry, I look awful. Will you wait for me here? I just need to take a shower and freshen up."
+
+Inae hurried to the shower. Won and Sok also seemed to forget about the game. Laughing, they ran to the shower.
+
+"Guys! Won and I will take a stroll without you. After the game, she needs a distraction," Iku's mischievous intent was met with approval from the others. Vuk also wanted to spend time alone with Inae, not caring about his friends.
+
+The three friends dispersed and started waiting. Vuk took a distant corner so that no one would accidentally bump into him. Where to take Inae - Vuk tried to plan the evening. A suitable place seemed to be a cafe - she must be hungry after the game. Where to go after the cafe? Building vague plans for the future with a barely familiar girl was quite amusing.
+
+"There you are! Why are you waiting here? Where are the others? Ah, I see. They wanted to continue without us. I'm fine with that too!"
+
+Inae stood behind Vuk. With shiny hair falling on her shoulders after the shower, she looked great.
+
+"Where are they? They were just here!" Vuk clumsily lied, trying to hide the shameless agreement with the guys.
+
+"Let's not worry about them. Come, I'll introduce you to someone."
+
+Introduce him to someone? Maybe that troublemaker - Won's brother? Or another guy she also invited to the game? Vuk felt some awkwardness about the upcoming event.
+
+With relief, he saw a middle-aged woman with a friendly smile.
+
+"This is my mom. Mom, this is my friend!"
+
+Vuk was surprised that Inae introduced him to her mother without a shadow of doubt. Mr. Kwon wouldn't approve of her behavior. In his view, a high school student is not allowed to have a girlfriend or friend.
+
+"Nice to meet you. What a wonderful student!"
+
+It seemed that Vuk's high school uniform received immediate approval. Inae surprised him more and more.
+
+"Let's go to our house. You don't mind, Mom?"
+
+"Of course! I'll prepare something delicious for both of you."
+
+It was an event completely incomprehensible to Mr. Kwon. Inae invited Vuk into the house, and her mother supported this idea!
+
+Their car was imported, a rarity for Korea at that time, and it was driven by a chauffeur in white gloves. This was another surprise for Vuk, who was expecting a bus or taxi ride. Slightly shocked, Vuk remained mostly silent during the journey while Inae chatted continuously with him and her mother. They arrived at a huge mansion. Behind iron gates was a well-kept courtyard with a pond. The living room's distinctive feature was a thick, large white carpet with a tiger skin in the middle. Modern oil paintings on the walls contrasted with a collection of antique Korean ceramics on the wooden wall.
+
+Seating Vuk on a leather sofa, Inae went to her room to change. Vuk looked around - he saw real wealth for the first time in his life. The Kwon family was well-off, but what Vuk saw here was incomparable - it was another level. Unexpectedly, Vuk's eyes fell on a goban; like everything else in the room, it looked very expensive. The six-inch thick kaya board was a rarity in itself. What truly surprised Vuk was the autograph on the bottom: Kitani Minoru 9 dan.
+
+Kitani 9 dan was a teacher of Master Cho, the founder of the Korean Go Association. Damn it, who was Inae's father, the owner of a board with Kitani's autograph?! Vuk lifted the lid of the bowl with white stones. With his fingertips, he felt the smooth surface of polished cool shells. Wow! Real shells, polished by hand!
+
+"My dad loves playing. He brags about this board ever since he bought it in Japan. He says he played with the best player in Japan and got his autograph."
+
+Inae, now wearing a green sweater and blue jeans, stood next to him.
+
+"Your dad played with Kitani himself? Wow!"
+
+"Do you know how to play too? Great! You can play with my dad when he comes back."
+
+"Do you know how strong he is at the game?"
+
+"He says he's 3 dan. Look - his diploma is hanging on the wall."
+
+The diploma of Mr. Sangsu Park in a beautiful frame indicated that he was an amateur 3 dan. Although Korean players were not yet familiar with the amateur dan system, the Korean Go Association issued such diplomas for people with high social standing. The fee for the service was conditional; however, diploma recipients, usually wealthy and influential, made substantial donations that exceeded the official fee. It was one of the main sources of income for the Association.
+
+In the guide for issuing these diplomas, it was indicated that the first kyu was equivalent to the diploma of an amateur 3 dan, the highest level at that time. Nevertheless, these diplomas were mainly awarded for political and financial motives, and the true strength of the recipient didn't matter much. The priority for issuing these diplomas was the willingness and ability to make donations. Therefore, Vuk couldn't be sure of the strength of Mr. Park, the amateur 3 dan.
+
+Inae's mother, entering with a tray of appetizing food, greeted the news:
+
+"How wonderful! Please stay. Inae's father loves playing with new opponents. He'll be back soon; the driver has already gone to fetch him."
+
+"Thank you, but... I really need to get home. It's getting late."
+
+"Where do you live? In District K? Okay, it's just a five-minute drive. We'll drop you off. Please stay; you'll meet Inae's father."
+
+In reality, Vuk wanted to play with Mr. Park. He was curious about how strong Inae's father was at the game, although the prospect of playing with Mr. Park as a friend of his daughter made him uneasy. Mr. Kwon would not have approved of a friend of his daughter's coming to his house and playing Go with him. But maybe there's nothing wrong with it, as Inae's mom doesn't seem to mind. Vuk decided to boldly embrace the unknown.
+
+He could always escape from the house if things went wrong.
+
+Mr. Park arrived shortly. Inae's mom must have told him about Vuk because, upon entering the room, he immediately set up the goban.
+
+"Hello! I heard you play. Let's have a game. Inae, you should cheer for me."
+
+"No, Dad. I'll be an impartial judge."
+
+"In Go, there's no need for referees. By the way, what's your strength?"
+
+"I'm 1 kyu..."
+
+"1 kyu! I'm in a difficult position today, Inae. He not only knows how to play but is also a good player! Okay, I'll play with black."
+
+"But, sir, you're 3 dan..."
+
+"Ah, that?! Nonsense! I'm roughly 2 kyu."
+
+Mr. Park's insistence forced Vuk to play with white.
+
+Mr. Park, in his forties, had a good build and seemed like a very pleasant person. He seemed unperturbed by the fact that there was a friend of his daughter in the living room. Moreover, he appeared to be pleased with the visit. Vuk continued to be amazed.
+
+During the game, Inae's mom entered with tea for her husband. She commented with a smile:
+
+"It seems like you really like him, dear. After all, she invited a boy into the house for the first time."
+
+"Oh, is that so! You're serious about him, aren't you, Inae?"
+
+"Dad!"
+
+What a conversation between a father and daughter! Vuk couldn't believe what he saw and heard. They were joking with each other about him and with him, being barely acquainted with him!
+
+Mr. Park was not a match for Vuk. Vuk could have easily given him two handicap stones. But out of courtesy, Vuk didn't press too hard. A crushing victory over his daughter's father would be inappropriate. He hoped to win with a slight advantage. During these vain musings, Mr. Park interrupted Vuk - he surrendered.
+
+"Yes, Inae. He's not just a good player. He's a master!"
+
+"But you lost by just a little."
+
+"I've played a lot with professionals and can sense when a stronger opponent isn't playing at full strength out of courtesy... Okay, I think I need at least three handicap stones to play with you. You can be my teacher."
+
+"Then ask him to come more often, Dad."
+
+"Of course. But sorry, Inae, you won't be able to communicate with him during his visits. I won't let him off his teaching duties."
+
+"That's okay; I'll also learn to play, Dad!"
+
+"Wow! You really are into him. By the way, Vuk, want another game with a three-stone handicap?"
+
+"With pleasure... But it's already late."
+
+"How late is it? Oh, it's already half past ten. I'll ask the driver..."
+
+"There's no need to worry; I'll take the bus."
+
+"No and no! Let me do this for myself! If I treated Inae's friends poorly, she would make my life miserable."
+
+"Dad! You're the best!"
+
+Inae ran up to her father and kissed him on the cheek. Vuk's sisters never approached the elder Kwon closer than a meter, and Mr. Park allowed his daughter to kiss him on the cheek, and he liked it. It was yet another surprise.
+
+In Inae's car, she briefly told Vuk about her family.
+
+"My grandfather owns all the companies in the S Holding. My father is the younger of his two sons. My father studied physics in America, leaving the elder brother to take over Grandpa's business. But Dad's business grew, and the elder brother couldn't handle it alone."
+
+Then my father was recalled home by my grandfather to take charge of several companies. My mother's family manages a group of companies in the $ holding. My parents' marriage took place for family reasons between the two families, but surprisingly, my parents turned out to be very happy in marriage. They love each other a lot, and my father loves the family more than anything else in the world. I am their only child.
+
+Vuk began to understand Mr. Park's behavior, who, by Korean standards, behaved unusually. In America, he became a real revelation, that's what it was!
+
+When they approached the house, Inae handed Vuk a small piece of paper.
+
+"My phone number. Call me!"
+
+Vuk wanted to give her his number, but he changed his mind in time. What if Inae suddenly calls and finds him home alone with his father? No, never!
+
+As expected, his father didn't like that Vuk came back so late and not from the library, but he only mildly scolded his son. Vuk, with relief, went to his room and lay down on the bed without undressing. So much happened today! Inae's graceful movements on the volleyball court, a goban with Kitani's autograph, Inae's mother with a friendly smile, charming Mr. Park, and Inae's smile when she gave him her phone number in the car.
+
+That night, Vuk couldn't fall asleep.
+
+NEK
+
+The next two months were winter holidays. During this time, Vuk played with Dong almost every day at the "US" club and also met Inae frequently. There was no progress in the game; Vuk still had to play against Dong as black.
+
+However, there was significant progress in Vuk's relationship with Inae. Almost every day, Vuk called her or visited her at home. They went to the movies or just took a walk, and sometimes they stayed at home, listening to music and talking. If Mr. Park found Vuk there, they played a few games, and Inae watched. On those rare days when Vuk couldn't come to her house, Inae came to the club and waited for him to finish playing. Interestingly, encountering Iku and Dong, Inae didn't mind going to the movies with all three guys together. Even Iku, who was skeptical about all the girls in one group, liked Inae. He congratulated Vuk on his undeniable success in befriending such a pretty girl. Vuk really liked Inae, and she reciprocated his feelings. During their walks, they held hands when Vuk was out of uniform. Although walking with a girl, holding hands or not, violated the school rules and was strictly prohibited.
+
+Vuk was upset about the lack of progress in the game. He would have been happy to advance by just one stone, to alternate between black and white with Dong. Vuk's dissatisfaction was noticeable, and Dong tried to reassure him:
+
+"You're worrying for nothing. Well, if there's no improvement, so be it. At your level, it's almost impossible to progress even by half a stone. Maybe I'm stronger, but not enough to help you strengthen. You need a teacher, at least three or four stones stronger than you."
+
+A person who was two or three stones stronger than Vuk should have been a real professional. Obviously, finding such a person was practically impossible.
+
+Vuk was still deeply upset because the idea of becoming a professional player had taken root in his mind. However, for someone with a first kyu, the desire to become a professional was quite natural. But at that time, professional Go players earned very little. The game was not as popular as it is today, and consequently, finding sponsors for professional tournaments was challenging. To survive, professionals often had to engage in gambling. Ironically, becoming a professional in Go was very difficult: after rigorous selection, only four people a year became professionals.
+
+The desire to become a professional stemmed more from ambition than financial considerations for the First Kyu, but once the First Kyu got used to such respect, their ego demanded a new dose of glory and honor. The spirit of competition drove them to test their mastery against other holders of a similar rank to become a "Super First Kyu." Becoming a professional, passing the qualifying tournament – only that would satisfy their pride.
+
+These were the reasons for the First Kyu to dream of becoming a professional and be ready to face a challenging and financially insecure life. Most people, including psychologists, dismissed those dreaming of becoming professionals as crazy. Slowly but surely, Vuk was becoming one of those "chokiyut." All of Vuk's efforts were directed toward realizing his dream, and his frustration at the lack of progress in the game was entirely understandable. As Dong had mentioned, Vuk needed a teacher.
+
+In reality, Vuk had improved significantly after getting to know Dong, but there were still several steps to overcome to become a professional. In the absence of a teacher, having at least a few evenly matched sparring partners was essential. However, Dong was the only one nearby, and others were too weak to help Vuk improve.
+
+The winter holidays came to an end, and in February, Vuk completed his second year of study. Ahead was a two-week break before the start of the final year. In the morning, as usual, Vuk went to the "US" club.
+
+At the club, Vuk found Dong at a corner table, playing with a young man in his twenties who wore dark glasses with a thick frame. Thinking that Dong was conducting one of his teaching games, Vuk approached the table and looked at the board. To his surprise, this game was not one of Dong's lessons. The young man in glasses played as white and, moreover, gave Dong a two-stone handicap!
+
+Dong explained that when he was an insei, he played against professionals with a two-stone handicap with varying success. Could Dong's partner be a top-class professional? Vuk recalled the faces of professionals known from magazines but couldn't identify this person among them. Who on earth was he?
+
+The game ended after an hour, and as a result, Dong lost by two points.
+
+After tallying the score, the young man took a pack of "Zu'ap" cigarettes from his pocket and offered one to Dong. He lit Dong's cigarette first and soon lit one for himself. Then his hand again slid into his pocket, and he took out a matchbox. What was he looking for, interestingly? A matchbox? Ignoring Vuk's curiosity, the stranger didn't rush and rummaged in his pocket for a long time.
+
+Finally, he pulled out a piece of a large matchbox. Striking a match, the man first lit Dong's cigarette and soon released a large puff of smoke himself. He didn't even have his own matches! It was unpleasant to see a person who used a match and "chirkan," most likely stolen from some cafe table. Matches cost only two won, and even a beggar on the street didn't have such problems!
+
+Nevertheless, this strange man had just given two stones handicap to Dong, the strongest player Vuk knew, and won! Who on earth was he, damn it?
+
+"Well, it seems I missed the mark. Giving two stones in the corner and allowing whites to play first here means losing at least two and a half points."
+
+The comments of this person were hard to understand. Without a doubt, he could give two stones to Dong. Dong, disappointed by the defeat, listened silently. Then he looked around and noticed Vuk for the first time.
+
+"Hi. Been following the game?"
+
+"From somewhere in the middle. Did you take two stones?"
+
+"Yes... Let me introduce you. This is my brother, Nek, Nok Yun Kim. Ever heard this name?"
+
+"No... Is he a pro?"
+
+"No-no, I'm not a pro. I think I can play as black without a handicap."
+
+Nek smiled friendly at Vuk, who was now embarrassed by the fact that a non-professional could beat Dong with a two-stone handicap.
+
+"Brother Nek, could you play with my friend?"
+
+Vuk was grateful to Dong for this offer.
+
+"Of course. What strength does he play?"
+
+"Well, Vuk, why don't you take four stones?"
+
+Vuk was outraged. Four stones?! Even against Kitani 9-dan, he wouldn't want to take three stones! But soon he changed his mind. He would capture all the white stones with such an advantage! Vuk placed four stones on the board.
+
+Vuk, feeling confident, played quickly; Nek responded even faster. The game reached the middle in less than ten minutes. As soon as one of Nek's groups got "stuck," Vuk increased the pace. He wanted to finish the game here and now. An analysis convinced him that this group could be captured. With the next move, Vuk acted like a triumphant. To his surprise, Nek responded instantly and without any hesitation.
+
+Vuk thought again to confirm the accuracy of his calculations. There was no mistake: he was capturing the group. Vuk continued to play according to the plan, and Nek responded as expected. The group of white stones was soon annihilated.
+
+But the game was not over. During the struggle in which their group perished, the white stones formed a wall. Utilizing it, Nek placed a stone right in the middle of the black group, causing it to die without a chance of survival. Vuk was not prepared for this; the group he had captured was much smaller than the one he had just lost. With no other option, Vuk had to concede. Now, he regretted being so insensitive, relentlessly pursuing victory.
+
+"An example of an underestimated strategy—sacrifice by whites," commented Nek briefly, stunning Vuk. It turned out his mistake had become the cause of the group's death, all part of Nek's plan!
+
+"I feel you have great talent. If you practice a bit more, you could become a pro. What do you think, Dong? Shall we go get some coffee?" Nek looked pleased after the game with Vuk. The three of them went to a tea shop called "Lake." There, Dong, as if reading Vuk's thoughts, briefly explained about Nek and his life.
+
+Many times, Nek had participated in qualification tournaments, almost becoming a professional. First dans, when playing him for money, asked for a handicap, at least five stones. Recently, he reached the final in the qualification tournament for an international match. According to Dong, luck turned away from Nek, and that's the main reason why he hasn't become a pro yet.
+
+"Does a player need luck more than his skill, Dong?" Vuk doubted.
+
+"Everyone needs luck. And a lot of it..."
+
+As Nek answered a question that Vuk asked Dong, his face became sad. He lit another cigarette, this time using matches from the table; his eyes followed the smoke rings.
+
+Soon, Nek snapped out of his distracted state. Obviously, he wanted to change the subject of conversation.
+
+"Discussing such things is not interesting at all. Let's introduce ourselves officially. My name, as you already know, is Nek Yup Kim. Born in 1948, the Year of the Rat. And you? Oh, 1950, the Year of the Tiger! We're almost the same age. Let's be friends and call each other by our first names. Or, if the two-year difference bothers you, just add the word 'brother' before my name." The guys became friends, and the game accelerated their bonding.
+
+Dong left for some family matters. Vuk and Nek stayed, conversing more freely. There were plenty of topics to talk about, and both found it exceptionally enjoyable to be in each other's company. If a visitor sits in a tea shop for more than two hours, having ordered only a single cup of coffee and not ordering any snacks or something more, the waitress begins to drop rather transparent hints. When such hints started to repeat, they left the tea shop.
+
+Vuk decided to treat Nek to breakfast, remembering how he paid for three cups of coffee with 150 won. Insisting that he would pay himself, Nek searched for a while for two hundred won bills that got lost among the matchbox fragments and a few coins.
+
+They went to a local restaurant where they ordered pork with noodles. Vuk felt relieved seeing Nek enjoying the noodles. He was sure that he had spent all the money intended for breakfast on coffee.
+
+After the restaurant, Nek invited Vuk to his place. Vuk had no reason to refuse; he was happy to spend time with his new acquaintance.
+
+The room Nek rented on the hill in the N. area was terribly small and old. A tiny tea table and a folded woolen blanket occupied most of the room. The rest of the space was just enough for a person to lie down. Vuk immediately had associations: Mr. Park's living room with a tiger skin and Nek's room, removed by only four square meters; Mr. Park, who was three stones weaker than Vuk, and Nek, who was more than four stones stronger than him. It was easy to conclude that Go and money practically had nothing in common. They sat on the floor at the tea table. Nek took out half a bottle of soju and two plastic cups, poured soju, and handed a cup to Vuk.
+
+"It's time to pour. Believe me, you have talent, and I'm saying this not just because we're alone here. It's a talent that Dong can only dream of," said Nek, drinking the liqueur in one gulp. Excited by such a high evaluation, Vuk did the same.
+
+"How do you know that after just one game, Brother Nek?"
+
+"Because... I also have talent. I was surprised - your game strongly resembles my own. But... in your game, there is still astonishing awkwardness. Being talented is a rare gift. Talent itself does not guarantee the title of a professional. You need to study... This morning at 'Ozero,' I talked about luck. Yes, you need luck. But only those who have dedicated enough time to study are worthy of it. Most fail due to insufficient diligence, not because they are unlucky."
+
+"If you've returned to this topic, let me ask. What failure befell you in the qualification tournament?"
+
+Nek poured the remains from the bottle into his cup and drank.
+
+"And what would you say about a guy who came in second three times in a row when only one winner received the professional diploma? And then, when they changed the rules and started giving diplomas to two winners, he still ended up in third place?"
+
+It was evident that Nek needed another drink. He would have become a professional long ago if the rules had changed a year or two earlier. He was a failure—there was no other explanation.
+
+"Sometimes I think luck has nothing to do with it. In reality, I wasn't strong enough to be the first," he admitted, clearly disappointed that the bottle was now empty. He took out a pack of "Zap" cigarettes from his pocket and lit one, using the same match fragment. Without hurry, he continued.
+
+"You need to start seriously practicing. Otherwise, you'll stay at the same level, and that means death for your talent. Also, you need to participate in the qualification tournament. Moreover, in the nearest one, even if you lose all the games in the first round. The tournament will provide the best opponents in the country. The entry fee is three thousand won. It's a significant amount for me. The Spring one will take place in March. For me, it will be the last. Wouldn't it be amusing to play together in the same tournament?"
+
+"Will you stop trying if it doesn't work out this time?" Vuk inquired.
+
+"No... I just won't be able to. I'm going to the army in April and won't be able to play for three years. Who knows, maybe in three years, I'll be much weaker due to a lack of practice. Besides, new players will emerge, and the tournament will become even more challenging. If I'm going to do it, I'll do it this time. That's why I consider this tournament the last."
+
+Nek smirked wryly. He must have already decided that the previous tournament was the last for him, not the one scheduled for spring. Feeling sympathetic, Vuk changed the subject.
+
+"You said three things are needed to become a professional. The first is strong sparring partners, what are the others?"
+
+"Books and a teacher... You probably don't have any of the three right now."
+
+"I've read several books... Association journals, problem collections, joseki books, and a few others."
+
+Vuk felt offended that he was being taken for a fake first kyu who hadn't even read the necessary books. Nek just smiled at Vuk's protests.
+
+"These are not the books for a first kyu dreaming of becoming a professional. They're for those who want to kill time or be entertained. I'll show you a real book."
+
+Nek flipped over the blanket rolled up in the corner—under it was a wooden box. After rummaging there for a while, he pulled out a couple of books. He handed one of them very carefully to Vuk. The thick book titled "Game Records of Wu" was stitched with threads, indicating it was published a long time ago.
+
+Vuk discovered that the book was written in Japanese.
+
+"I can't read Japanese!"
+
+"I can't either. You don't necessarily have to read the comments—or, more precisely, you should never read them. Otherwise, you'll, at best, become a copy of the person writing the comments. Just go through the games, and the interpretations will come on their own. And it doesn't matter whether it's in Japanese or Spanish. Have you ever heard of Master Wu? He's the Go God, just like Master Dosaku. The Japanese call another one the Go God—Shusaku. But for me, there are only two: Wu and Dosaku. When you go through their games, a chill runs down your spine. I never felt that when watching Shusaku's games. Maybe if I had studied Shusaku more than Dosaku, I would have become a pro by now."
+
+Nek talked about people whose names Vuk had never heard before. However, it was quite natural, as Japanese books were practically unknown to Koreans. Vuk already felt something mystical in the book he held in his hands. Nek continued:
+
+"This book is one of the few treasures I have. I don't think there's another copy anywhere in Korea. I want to give you this book. You know why? Because you remind me of myself in Go. I felt it for the first time during our game today. I hope that at least one of us can become a pro, even if I fail. That's why I want you to take this book and become much stronger."
+
+Vuk couldn't say anything in response.
+
+"If we don't meet again, this book may end up in the dump once I go to the army. There are about three hundred games of Master Wu here. I've gone through them nine times. So if you review each of them ten times, I think you can beat me."
+
+Nek smiled sadly. He had reviewed all the games nine times! Over 2700 games! And yet, he was about to surrender and pass the baton to Vuk. Vuk understood the conflicting feelings overwhelming Nek.
+
+"You don't need any more books. Now the third thing you need is a teacher. But he's not as important as the first two points. A teacher can hinder the development of your own unique style if you imitate his style... But if you think you need all three things, I'll be your teacher."
+
+Nek's words stirred Vuk; today, he was offered two out of the three necessary things to become a pro. Reviewing games ten times in a row didn't seem impossible anymore. Vuk, who was upset because he could only improve his game by half a stone, now had the opportunity to advance by four!
+
+Nek took the second book. It was much thinner than the previous one.
+
+"This book is not entirely about Go. Nevertheless, it should help you. These are poems and short stories written by my friend. He was a poet. He played well too, but one stone weaker than me. Like me, he tried many times to win the qualification tournament, but unsuccessfully. Once he even managed to reach the main tour. But last year, his parents, in pursuit of a better life, emigrated to Canada and took him with them. Him – a guy who only knew how to play Go and write poems in Korean! What is he doing there? He played fantastically with a handicap against weaker opponents; he could give two stones more than me. They even called him a hypnotist—anyone who sat against him played as if under hypnosis.
+
+This book is not published. He just compiled his poems and stories together. There are a couple of poems about Go, those are the only ones I've read. I don't understand poetry... There's also a short story called 'The Game Coughing Blood' about an unfortunate professional Go player from Japan in the mid-19th century. I think he attached a game record; let's take a look... Yes, here it is. First, read the story, and then look at the game. It should teach you perseverance. To become a pro, you have to be persistent and strong."
+
+Vuk's hands trembled slightly as he held the newly acquired books. His heart pounded with a strong desire to flip through them immediately. Nek took his jacket and prepared to leave, seemingly anticipating Vuk's thoughts:
+
+"I have to go now. I need to work to pay for the apartment. By seven, I have to be in the U district."
+
+Vuk was very curious to know where Nek worked but tactfully kept quiet. They took the bus together, and Vuk exited first.
+
+"Okay, I need to go. Can I stop by your place?"
+
+"You might be wasting your time—I'm rarely home. I'll probably drop by 'US.'"
+
+"That would be great if you could. Thanks for the books. Really, thank you."
+
+Nek smiled.
+
+Back home, Vuk opened the book of poems first. The author was named Suk-won Hon. The story "The Game Coughing Blood" was at the end of the book.
+
+THE GAME COUGHING BLOOD
+
+On July 19, 1835, in Lord Matsudaira's castle, in a quiet room, two men sat facing each other. One of them, who could see the garden, was Meijin Jowa, 9th dan, forty-eight years old, from the Honinbo family. His opponent was Intetsu, 7th dan, twenty-six years old, from the Inoue family. The handicap was one stone, and Intetsu played as Black without komi. Before starting the game, both players sat with their eyes closed, meditating to clear their minds of unnecessary thoughts. It was easy for some of them to get distracted.
+
+For Meijin Jowa, this was a game he could not afford to lose. The possession of the Meijin title—the highest Go title earned through years of political maneuvering and intrigue—was at stake. Jowa was uneasy about playing against Intetsu since he had lost to him in two previous games, although Intetsu played as Black at that time. If Jowa loses this game, Inseki, Intetsu's teacher, will challenge him to a match.
+
+Inseki was the real victim of Jowa's intrigues, who, on the path to the title, had acquired many enemies. Jowa knew that Inseki and he were equally strong and had been avoiding games with him for the past few years. Jowa did not want to risk a possible defeat that would force him to part with the Meijin title. However, Jowa could not avoid a game with Intetsu, Inseki's student. The match was organized by Lord Matsudaira, and he was too influential for Jowa to dare decline the proposal for this game. Jowa decided to do everything possible to defeat the young and talented player from the rival family at any cost.
+
+For Intetsu, there were almost more reasons to win. Inseki, Intetsu's teacher, Inesezu, had been a victim of Jowa's dishonest intrigues, which had almost destroyed his pride and self-respect. Only with Intetsu's victory, his teacher would have a chance to be honored with the title Meijin.
+
+Master Inseki raised Intetsu as his own son after he was orphaned at an early age. He taught Intetsu the game, making him strong enough to avenge his teacher. For the grateful student, it was time to repay his debt to the teacher.
+
+This game differed from the two previous ones they played. Today's meeting, with representatives from all four families, was official. Its result would be official enough for Inseki to file a petition for Jowa's reconsideration as Meijin. Nevertheless, Intetsu knew the formidable and powerful play of Jowa. Many times, his teacher had told him. Intetsu himself, repeatedly reviewing Jowa's games, realized each time how the awe-inspiring power could overwhelm the opponent. Be that as it may, he was obliged to win, for the sake of his teacher and the Inoue family. At any cost.
+
+Intetsu opened his eyes and carefully placed a black stone in the lower-left corner against Jowa. Jowa, in turn, placed a white stone in his lower-right corner with a click. The game of the century had begun.
+
+On the first day, 59 moves were made before they retired to their families for a two-day break. A new variation in the lower-left corner, specially developed in the Inoue family, was unexpected for Jowa. He made a mistake in response, and Intetsu took a confident lead.
+
+Realizing he was falling behind, Jowa gathered his students in search of the next move, but to no avail. On the second night of the break, Jowa continued sitting at the board, feverishly trying to find the move that would turn the game in his favor. There was no such move. Jowa continued to sit, staring at the board, meditating from time to time, and trying to concentrate better. On the second night, exhausted, Jowa lost consciousness. Concerned, the family gathered around him. Finally, he woke up. His eyes sparkled. After hours of silence, he exclaimed, "I found it! I found it at last!" Later, it turned out that spirits came to Jowa and gave him hints for moves.
+
+Intetsu spent two days meditating alone in a boat on the river. He was sure that there was still a long way to go before the finish. He well understood that maintaining the advantage until the end would be very difficult. Whatever they said, Jowa was Meijin, the best player in the country.
+
+On July 21, the game resumed. Forty more moves were played before a three-day break. That day, Jowa made three brilliant moves that no one expected and turned the game in his favor.
+
+On the third day, July 24, by move 172, Jowa gained a superior position. Jowa, a player of a higher rank, had the right to choose when to stop the game and take the final break. Confident of his success, Jowa announced the break on the third day, not intending to study the position further, and in three days, they would finish the game, as agreed.
+
+During the break, Jowa worked with his students as if not remembering the game. Intetsu spent all three days in the boat, remaining completely detached.
+
+The last day arrived. Although the situation seemed hopeless, Intetsu continued to fight. He searched for the slightest opportunity to change the course of the game, and a faint chance remained. For several hours, 74 more moves were made. Finally, there were no more options—Intetsu resigned. Jowa won the game. The players exchanged bows and started collecting the stones. Suddenly, Intetsu began to cough up blood directly on the board.
+
+He expended all his energy on the game, leaving nothing for his own body. It was not destined for Intetsu to recover; he departed from life just over two months later, and his teacher sat by his bedside.
+
+On a melancholic day, when I feel despondent and languid, I unfold the game of Intetsu. Powerless against the moves guided by spirits, the black stones lament just as they did in the hot summer of 1835.
+
+THE ROAD TO GO
+
+"The Game Coughing Blood" shook Vuk. Before his eyes was the scene of Intetsu sitting motionless in a small boat. It was the first time Vuk learned that a game could cost a life.
+
+Vuk found the game record on the back page and went through it. The game was swift, masterful. There were too many variations for Vuk to understand them all. He felt like the stones were breathing with life, just as the story's author described.
+
+Vuk reviewed the game three times. Many moves were still unclear to him, and he decided to ask Nek about them at their next meeting—surely, he knew the answers.
+
+Then Vuk turned his attention to the game records of Master Wu. Reviewing one game took about two hours. There were also many incomprehensible moves here. Vuk realized why Nek insisted on watching games ten times. Now Vuk had truly become a "goof."
+
+The two-week vacation came to an end, and the final year of school began. During the break, Vuk couldn't meet Nek. Attempts to find Nek at the apartment he rented were in vain, and Nek himself never showed up at the "US." To Vuk's surprise, Donga was also absent from the club; even Iku said he hadn't seen him for a long time.
+
+The senior class at School K was unique. All efforts revolved around getting into the best university. Students, teachers, and parents had one common goal. Vuk sympathized with classmates who studied intensively without understanding why. They had to study for 17 hours a day because that's what the people around them wanted, not themselves. Vuk felt different—he was the only one in school who knew exactly what he would become in the future. Vuk studied Master Wu's games more than mathematics or English. Naturally, his grades dropped.
+
+Mr. Cheng, Vuk's class teacher in the senior classes, scheduled a personal meeting with Vuk. It was a few days after the first exam. Knowing Vuk as one of the best students in the class, he was surprised by the poor grades. So, he called Vuk.
+
+"Vuk, do you have any problems?"
+
+"No, sir."
+
+"I hope everything is okay with Mr. Kwon at work?"
+
+"Yes, everything is fine."
+
+"Hmm... Do you have a girlfriend?"
+
+"No, sir."
+
+Vuk briefly thought about Inae. But knowing that she wasn't the one, he firmly said, "No."
+
+Then why do you have such grades? - the angry headmaster demanded an answer.
+"If you always just defend, you can't win." Vuk decided to take the initiative.
+
+Honestly, I dropped that thought—going to university.
+
+Really!? Why? Do you have other plans for the future?
+
+Yes, sir. I do. I can promise only one thing - I will finish school, but not with the intention of entering the university.
+
+Amazing determination! Well, then, tell me about your plans.
+
+Vuk couldn't answer.
+
+See! You don't even have a plan. Here's what I'll tell you. I'm sorry for pressing, but first, you should go to university while you have such an opportunity. Think about your family, brothers, and sisters. Do you want the traditions of the K family to end with you?
+
+I doubt you can call it a tradition. Rather, it's stubbornness.
+
+Of course, you think you're smarter than everyone. I assure you, you'll regret it later if you miss the chance to go to university now, "Z" University. You'll be a complete idiot if you don't understand this simple truth; unless, of course, you have some other specific plan!
+
+I have a plan...
+
+Tell me.
+
+You can't tell me because you don't have one.
+
+I do, sir, but...
+
+Then tell me, please!
+
+I want to become... a professional Go player.
+
+What?! A Go player! Can you play?
+
+Yes, a little.
+
+What does "a little" mean?
+
+First kyu...
+
+I see! And you want to say that you'll participate in the qualification tournament?
+
+Yes...
+
+Good Lord!
+
+Mr. Cheng was at a loss for words. He lit a cigarette, looking at Vuk. Then he spoke again.
+
+Listen to me. About ten years ago, working at school "R," I had a student who wanted to become a pro. He also had a first kyu - quite a rarity, as I understand. He left school to try himself in the qualification tournament. To this day, I browse through the lists of professionals to find his name. But his name is not there! But if he had finished school "R" before becoming a pro, he would have had a better future than after leaving this school. But... you're a different case. Refusing university for Go?! It's not right. From the students of the best school to professional players! Incomprehensible!
+
+I shouldn't become a professional player just because I'm a student of the best school? In that case, if the best school is just an obstacle for the future, then it can't be called the best!
+
+Vuk's voice trembled. Mr. Cheng was struck by his student's logic. But it's hardly possible to argue with someone who has power over you.
+
+Alright. Let's agree that I heard nothing. But I'll talk to your father if you don't improve your grades by the next exam. Okay?
+Vuk fell silent, hearing his father's name. Unlike Mr. Cheng, his father wouldn't listen to his son. So, Vuk replied to promise to get better grades on the next exams.
+
+But now, Vuk couldn't prepare for exams; in ten days, he was supposed to participate in the first professional qualification tournament. Instead of mathematics and English, Vuk studied Master Wu's games.
+
+QUALIFYING TOURNAMENT
+
+This tournament made many people cry. Twice a year, the top strong first kyus from the entire country, around three hundred people, gathered for this competition. Out of three hundred, only two left with a smile; the rest, deemed "crazy," were satisfied with tears. Their girlfriends, bar owners who became their regulars, and sometimes even their parents—all cried for their "abnormal failure." Perhaps it was a good thing that the Association held the tournament only twice a year, not more often.
+
+Vuk participated in the qualifying tournament for the first time. He felt guilty for lying to his father: three thousand won, supposedly for "textbooks," was spent on the tournament entry fee. Nevertheless, he eagerly awaited the start of the most prestigious Go tournament in the country. He had to sneak out of school and change clothes right in the bakery near the school. He left his uniform and school bag with the baker.
+
+The huge tournament hall was packed. Dong was already there, but Nek was not in sight. Vuk went to check the draw.
+
+In the first stage, players were divided into groups of four each. The winners of the groups advanced to the second stage. In the groups, they played in a round-robin system. The same order applied to the second and third preliminary stages. After that, eight players remained, and two more joined based on the results of the previous tournament. Ten players, in total, would play in a round-robin system, with the top two becoming professionals, and two more advancing to the final of the next tournament.
+
+Vuk lost all three games in the first round. He completely failed two, and in the last one, he had a chance—he lost by only one and a half points. Vuk was upset that he played so poorly, realizing how much more he had to do to become a pro. His dreams for the first stage evaporated. Three thousand won disappeared. But Vuk quickly calmed himself, convincing himself that there was no other way at the moment. He felt a tremendous desire to improve.
+
+Vuk had no choice but to watch Dong's game. Dong had already won two games, and in the third, everything was going well for him. He had to advance to the second stage! Vuk's mood improved; he left the Association building and went to change. The bakery owner, a middle-aged woman, looked at Vuk sympathetically. Vuk pretended not to notice her gaze and left the bakery with a bag full of clothes.
+
+Positive for Vuk in the defeat was that he didn't have to skip school tomorrow. Another absence could force Mr. Cheng to call his father. Luckily, there was no one at home to ask why he came home from school so early.
+
+After a snack, Vuk headed to the "US" club. To his surprise, he met Nek, reading a newspaper alone.
+
+"What happened, brother? Why haven't you come? I dropped by your place a few times. Why aren't you at the tournament?"
+
+"Slow down, Vuk. You must have participated in the tournament? Very good. One win and two losses? Or three barankis?" Nek, instead of answering, began asking questions.
+
+"Yes, three losses. But why aren't you at the tournament?"
+
+"I was third last time and automatically qualified for the final, did you forget?"
+
+Nek smiled, as if reading Vuk's thoughts. Vuk was worried that Nek had given up everything. Vuk felt relieved.
+
+"How about coffee? Tell me about today's game."
+
+Vuk was disappointed that Nek wanted coffee instead of a game. But chatting with him was also a good idea. They walked to the "Lake."
+
+There were few visitors in the "Lake," and they could sit longer without hints from the waitress.
+
+After ordering coffee, Nek offered Vuk a cigarette. Vuk was surprised—it wasn't "Zmap" but "Svilada." Then Nek lit Vuk's cigarette—another surprise—with a lighter.
+
+It seemed Nek was satisfied with the effect.
+
+"After our last meeting, I made good money. For your information, I smoked 'Zmap' not because I liked it but because I had no choice."
+
+"You got a job? With only a month left until the army? How did you manage that?"
+
+"You can't imagine what kind of job I have. I earn by playing Go."
+
+"Teaching?"
+
+"Who would pay for Go lessons? Bannegi!"
+
+Bannegi is playing Go for money, where the amount won is determined by the handicap you win with. Vuk was slightly disappointed. Nek, the best player he knew, was a gambler! His respect for Nek seemed to be melting away. Nek couldn't help but notice Vuk's disappointment.
+
+"Yeah, I understand. Bannegi is not the most righteous path. But understand a guy who has to fight for survival. I only know one thing—playing Go."
+
+No education, no profession like others. I have to live somehow. I just had to resort to this. Then bannegi helps me not only survive in this world but also relieve the tension and pain I got from Go. Sometimes I tell myself: it's time to pay, Nek! I've spent everything on the Game, getting nothing in return. Bannegi is the only compensation. Why pretend?
+
+Vuk began to understand Nek better. Nek had indeed become a victim of his love for the Game and undoubtedly deserved reward. It was hard not to agree with that.
+
+"But, brother Nek, you risk losing, there's no guaranteed victory, right?"
+
+"A good player doesn't lose. I'll explain everything to you. But not today. I really don't want to talk about bannegi two days before the tournament. It's like visiting a prostitute two days before the wedding."
+
+"Do you know how Dong is doing?"
+
+"I think he at least made it to the second stage. When I left, he had already won two games and was doing well in the third."
+
+"Fantastic. Dong might even become a pro this year. Riding on success can take you very high, even with someone as strong as Dong. Besides, he really prepared seriously for the tournament last month. Didn't you know?"
+
+Vuk now understood why he couldn't find Dong at the club—he was at home practicing all day. Vuk remembered how nervous Dong got when the tournament was mentioned. It would be great if Dong and Nek became pros now! Vuk sincerely wanted that.
+
+BANNEGI
+
+Dong made it to the final, winning nine games. He faced eight newcomers and two from the previous tournament. One of these two was Nek. For the next three days, ten players battled in a round-robin system for the title of pro.
+
+Neither Nek nor Dong made it among the two lucky ones. Dong found some solace in his fourth place—now, in the next tournament, he wouldn't have to go through the preliminary qualification. Nek, who had high hopes for this tournament, played terribly. Now he had to start all over again in the next tournament, just like Vuk, from the first stage.
+
+"In any case, I'll be in the army and won't be able to participate in the tournament," Nek tried to joke, but Vuk knew he was crying. The Game was too harsh on Nek. He wanted to end these relationships where his boundless love for the Game found no reciprocity.
+
+"Can you come to the 'Road' teahouse near the tram stop tomorrow evening around eight? It would be nice if you spent the night with me. Can you arrange that?" Nek asked unexpectedly, and Vuk didn't immediately know what to say but said he would try—he wanted to do something for Nek. Now he needed to come up with something plausible for his father.
+
+Permission to study in the 24-hour library was obtained from his father very easily— he was surprised by his son's voluntary dedication to studies and even gave Vuk money so he could have a snack.
+
+The next day after lunch, Vuk went to the library. There, he changed, hung his uniform jacket on the back of the chair—it was a precaution in case Mr. Kwon decided to check. Vuk left the books open on the table and walked out of the library, rehearsing the possible scene: "You must have peeked when I was just going out for a snack." Vuk was grateful for the dormitory curfew, which meant Mr. Kwon would return home before midnight. The whole scheme seemed risky, but Vuk was ready to accept any punishment if his plan failed. It was quite possible that Nek's request to him was the last, and now Vuk would do anything for him.
+
+Nek was waiting for Vuk at the 'Road'.
+
+"Good you came. I wanted to show you this before going to the army... It's also part of the Game."
+
+"What will you show me?" Vuk asked.
+
+"Bannegi," Nek grinned.
+"Bannegi? Where?" Vuk scanned the teahouse, as if trying to find people playing bannegi.
+
+"I want you to watch me play today. I got permission from my opponent. So everything is settled."
+
+"You'll be playing at the club?"
+
+"No... It's impossible to play high stakes at the club. We'll be playing at the 'Seven Stars' motel across the street from here."
+
+Vuk felt uneasy. He had never been to a motel, and the prospect frightened him. What if the police came?
+
+Unaware of Vuk's concern, Nek explained the rules:
+
+"Bann equals ten points of territory. So winning from 1 to 10 points is one bann, from 11 to 20 - two banns, and so on.
+
+Usually, the number of banns is limited to ten, in other words, manbann. Thus, the smallest number of points that will give you manbann is 91. Even if you win with a much larger margin, say three hundred points, it's still just manbann.
+
+Before the game begins, both sides agree on the cost of each bann and the main stake. The main stake is the money that the winner will get in any case, regardless of the advantage. When they make a bet, it is divided into two parts: first, the main stake, and then the bann's price. For example, 'one hundred, twenty' means that the main stake is 100 won, and each bann costs 20 won. A bit of practice, if I win the game '100, 20' with 12 points, how much will I get? 140 won. You can only surrender when you realize you've lost manbann.
+
+"Now - the most important thing in bannegi - before the game starts, both sides are obliged to put under the board an amount equal to manbann. This prevents the losing player from continuing the game after running out of money. Thus, if a player's pockets are empty and he has to reach under the board, bannegi ends.
+
+"What are the stakes today?"
+
+"Five thousand. One thousand."
+
+"A five-thousand won bank and a thousand for each bann? Then manbann should be fifteen thousand!"
+
+Vuk's surprise was natural; the starting salary for a university graduate in a major firm was approximately 30 thousand won per month. Vuk felt really out of place. He remembered newspaper articles about raids on participants in gambling, with photos of players and confiscated money. Looking at the concerned Vuk, Nek smiled.
+
+"Relax. The local sergeant often drops by there to win money for cigarettes. Besides, friends will be there today."
+
+Vuk was somewhat reassured, but some doubts still lingered.
+
+"What if you lose, Brother Nek?"
+
+"I won't lose," Nek's voice sounded confident.
+
+"I know you play well, Nek. But anyone can lose, regardless of strength. Besides, the guy playing against you must think he has a chance. Why else would he agree to such high stakes?"
+
+"Exactly. That's why, in the last five months, I've taken some preparatory measures."
+
+"What measures?"
+
+Nek looked around, checking if anyone could eavesdrop.
+
+"He couldn't beat me even with a seven-stone handicap! Five months ago, I started a small bannegi with him, ten won per bann with a four-stone handicap. At the beginning, we agreed that the handicap would change accordingly if one of us won three games in a row. I controlled wins and losses so that the handicap fluctuated between three and four stones. Now he's convinced he can easily beat me with four stones and has a chance with three."
+
+A few days ago, when we were drinking soju together, he finally asked me the question I had been patiently waiting for five months. He asked what handicap I could give him, considering my fantastic skill. I gave him the answer I had prepared five months ago — six stones. As expected, this answer upset him: "Six? You've never gone beyond four, and now you're talking about six? Look at things realistically! No one can beat me with six stones. If you're so good to say six, how about we play bannegi 5000, 1000? Scared? Ha-ha-ha... Then don't mention six again."
+
+I replied, "Why not play?" At first, he was surprised that I accepted these conditions, but then he calculated — and here his logic played a wicked trick on him — that I accepted the challenge because of my inflated self-esteem. Oh, how I enjoyed his smug face in anticipation of easy money, ha-ha-ha-ha. So the bannegi I had planned became a reality. His vanity and self-deception led him into a trap. I never tire of reveling in the stupid pride of weak players for their foolish game. Well, how can I lose to such a self-absorbed guy?
+
+Hmm... But that's fraud, don't you think, brother?
+
+It very well might be. But I don't feel guilty. This guy deserves a little punishment. All his money he gained through luck in the stock market. He looks down on the poor, his rudeness and arrogance are sickening. Once, I saw him waving a five-hundred won bill in front of a beggar's nose, never giving it to him. Inhumane. He must pay with what he values most — money!
+
+"By the way, how much money do you have with you, Brother Nek?"
+
+"About fifty thousand. It's a necessary minimum, considering possible strategic losses."
+
+"Strategic losses?"
+
+"Yes. If I beat him right from the start, he'll accuse me of cheating and might not even pay. It's better to let the opponent win one or two banns to inflate his confidence. Then, in the third or fourth game, you strike with 7-8 banns. He loses composure, eager to quickly win back the money. And once he loses his head, you systematically and ruthlessly drain him until he runs out of money. Today's evening has one inexcusable mistake - he won't have a large sum with him, at most 50-60 thousand, as he doesn't suspect he might lose. If we were to arrange another match, I could take much more. But it's risky - he might catch on. Well, let's go. It's time."
+
+Vuk followed him. Nek's silhouette seemed frighteningly massive. A formidable man who wanted to achieve revenge in his own way. Intimidating but deserving respect. At least for the patience displayed in these five months of pretense and calculation, thought Vuk.
+
+At the motel, their opponent awaited them. Boss Park, along with the owner of the Go club, who would be the judge tonight; both were well over forty. The meeting place turned out to be a medium-sized room with a double bed in the corner. Contrary to Vuk's expectations, the room was neatly and cleanly arranged.
+
+After exchanging handshakes, Nek, laying out 15 thousand under the board, remarked:
+
+"I was probably out of my mind when I agreed to play with you. Boss Park, this is bannegi at six stones."
+
+"Agreement is worth more than money today - six it is, ha-ha-ha-ha!" Boss Park was excited about the prospect of easy money. As soon as Boss Park placed the required amount, the judge announced the start of the first game.
+
+Nek lost the first game by 30 points - two banns. The second - by 7 points - one bann. The defeats were expected, but Vuk knew it was all part of Nek's plan. As promised by Nek, he won the third game by five banns.
+
+"I was a bit careless... if not for this ko fight at the end, I would have won again..." Boss Park, unaware that Nek's plan was unfolding, regretted the initial loss, and his voice still sounded quite confident.
+
+Nek acted cautiously not to sober him up.
+
+"A bit of luck is all I need to beat you at six stones."
+
+"Sorry, but that won't happen again," Boss Park said, setting six stones on the board. It seemed he wanted to win a new victory quickly to forget this annoying loss. Losing at six stones was an insulting blow for him. But real blows followed later.
+
+Boss Park lost the next five games, each by six or seven banns. Finally, on the sixth, a manban was reached. Counting the money to settle for the loss, Boss Park discovered his pockets were empty! He was visibly upset that he couldn't continue the game and pleaded with Nek:
+
+"I'll pay everything as soon as the bank opens. Please, let me play one more game!"
+
+Nek, perhaps even more upset that he couldn't win more, was unyielding:
+
+"Sir, you know better than me. We could continue tomorrow, but for now - no more games!"
+
+The judge, realizing it was time to intervene, announced the end of the game for the day.
+
+"Alright, I'll be waiting for you at the club exactly at 8 o'clock!" shouted Boss Park, rushing out of the room and slamming the door. Nek smiled contentedly. He counted out five thousand won and handed it to the judge.
+
+"Thank you for your participation, until evening."
+
+"Nek, I KNOW... Do you understand what I'm saying? Don't come to the club tonight. He's punished enough."
+
+"Alright. I don't plan to show up anywhere."
+
+The judge left, thanking for the generous tip. Vuk and Nek looked at each other for the first time in a long while. Vuk could only say:
+
+"Wow!"
+
+"Yes, about 60 thousand. Nek was attentive to every detail, even the winnings for the night.
+
+"That's awesome! It's only five in the morning? Let's sleep now and then have a good breakfast together. Okay, Vuk?"
+
+Vuk agreed too. He was delighted with the proposal. Observing the game exhausted him almost as much as the players themselves.
+
+Nek summoned a boy from the staff and, paying for the room, whispered something to him. The boy gave a deep bow and left. Soon after, Alpaco, the boy, returned and escorted them to the floor above to their rooms. Vuk realized, with surprise, that Nek had paid for two separate rooms. Although later he thought that it might not be very convenient to sleep in the same room.
+
+You must be hungry too, Vuk? They will bring pies and soju soon. Will you sleep better after that? Good night.
+— How about having a drink together?
+
+Nеk, as if not hearing the question, went to his room. Soon Vuk understood why.
+
+About ten minutes later, there was a knock on the door. It was a girl with a thick layer of makeup on her face, holding a tray with food and soju. Nok ordered girls for both of them - that's what the separate rooms were for.
+
+Vuk found himself in an awkward situation: he had no sexual experience. This is too much, he thought. He still had a faint hope that the girl would just deliver the food and leave. However, after setting the table with soju and food in front of Vuk, she sat down nearby as if nothing had happened.
+
+Did you play Go? You must be terribly tired, sir. Then you shouldn't drink too much.
+
+The girl, who appeared to be 4-5 years older than Vuk, spoke to him very softly and politely meanwhile pouring soju into a glass. Vuk drank it in one gulp and spoke with a hoarse voice:
+
+Uh... Will you have some?
+She looked at Vuk, smiling gently. Then she poured herself some and took a small sip.
+
+— Have a bit to eat, sir. It's not good to drink soda on an empty stomach.
+
+Taking a mattress and a blanket from the cupboard, she unfolded them and carefully laid them in the center of the room. Turning off the overhead light, she turned on a pink nightlight and began pouring without a shadow of doubt. For her, it seemed like all of this was routine. But Vuk couldn't watch it calmly. He filled a glass and drank.
+
+— Please, you need to relax. - whispered the girl. She was completely undressed.
+
+Alright, now... Maybe...
+
+She seemed not to notice his confusion.
+
+_ Sir, maybe it would be better if I undress you?
+
+Vuk jumped at the unexpected offer and started undressing himself, mentally grateful for the dim light of the nightlight hiding his embarrassment. Remaining in underwear, he cautiously took hold of the edge of the blanket, trying to lie as far away from the girl as possible. However, with a gentle movement, she drew him closer, helping him remove the remaining clothes. Vuk's timid attempts to resist were overcome by her tender hands.
+
+LOSS OF FRIENDS
+
+"Vuk, forgive me, please, if yesterday's actions offended you. I wanted to do something for you, and this is the only thing I can offer to a friend... so, please, try to understand. Juna is a wonderful girl, a rare find in such places. If you liked her, visit her someday — she'll appreciate it.
+
+The bills are covered. Don't pay anything more. I have to go home to join the army. By the time you read this letter, I'll already be gone.
+
+Also, don't be upset, please... I left you some money from yesterday's winnings. I just wanted to give you a little, that's all. Besides, believe me, your presence helped me. And I won't need the money in the army anyway.
+
+It's quite possible that we'll never see each other again, but for some reason, I believe that we'll meet again somehow, because we both play. I want to remain your teacher, even though we only played once. Take care of 'Vuk's Game Records.' I'm sure you'll become stronger than me. NEK."
+
+Nek left, saying his own goodbye. In the envelope that Juna gave him in the morning, along with the letter, there were forty-five thousand won. Vuk had never had such an amount in his life. He handed Juna ten five-hundred won bills.
+
+_ No-no. Your friend already paid me more than enough... besides, this is too much too.
+
+Please, take it, for my sake.
+Vuk felt great, seeing that his first woman was grateful and happy. Perhaps he would visit her again soon.
+
+It was around ten in the morning when Vuk took a taxi to the library. He appreciated how comfortable it was to have a lot of money in his pocket. He sighed with relief: the officer didn't come for inspection. He changed into his uniform and took a taxi home. Vuk felt immense fatigue at home and went straight to bed.
+
+Lying with closed eyes, he saw Juna naked. Vuk tried to get up. In place of Juna, Inae appeared — she was also undressed. Guilt drove away sleep. Then the image of Nek in the taxi on the way home came to him. Private Nok — what an inappropriate way to address him! Nek was Vuk's teacher, his only teacher! Vuk's Game Records... Vuk fell into a deep sleep and slept through the late evening, after which he headed to the US Club. Dong was there.
+
+"Hello, Dong. Congratulations on reaching the finals of the next tournament.
+
+Let's have a drink, my treat.
+
+Dong wasn't too cheerful. It would be interesting to know why - reaching the final was indeed a big success. Dong walked with Vuk, not noticing his surprise. After they finished a bottle of soda, Dong slowly began to speak:
+
+Vuk, for some time, we won't be able to meet...
+First Nek, now Dong. What could it be? It's too early for the army.
+
+I took the tournament very seriously. Perhaps that's why I made it to the finals. And suddenly, I became a sort of local celebrity, attracting flies...
+— Flies?
+
+— Yes, in a way. After the tournament, a wealthy man spoke to me. He said he wants to help me. You know how?
+
+— He offered to continue my education, paying for a scholarship.
+
+_ Is that bad? Why the sadness?
+
+— He's going to send me for the first year of high school. I understand, I was expelled from the first year, but my classmates will already graduate this spring. And I have to put on the school uniform again. The second time in the first grade... It's too much.
+
+There's a huge difference between a high school graduate and a regular student. Until graduation, there are strict restrictions for students, and only after high school are people treated as adults. Vuk understood Dong's situation perfectly.
+
+Well, if you're going to start studying from the beginning, why do you need his help?
+_ I need it. I left school because I couldn't afford it... This scholarship will solve my financial problems. I will participate in tournaments among high school students.
+
+I won't be able to go out at all until I finish school. I'll stay at home and study. And I won't see anyone, including you.
+
+— Well, if that's the case... I still think it's too much - to detach yourself so much. Let's at least stay in touch somehow, maybe by phone.
+
+Dong didn't answer - he disagreed. Vuk knew how stubborn Dong could be and didn't try to persuade him. Perhaps he'll change his mind soon.
+
+— I'm sorry, Vuk. It's tough for me too... But please try to understand. By the way, did you know, Ik went to work in Dongluchui, at the American military base?"
+
+"Even Ik too?! Vuk was overwhelmed and saddened.
+
+Since that day, Dong didn't show up at the club. The story about Ik turned out to be true. Vuk couldn't understand how someone could disappear without even saying goodbye. He also stopped going to the club. What was there to do if there were no Dong, no Nek, and now no Ik? At home, Vuk studied Master Vu's games. It took him six months to review all 300 games and then some. He needed to go through them nine more times, without the help of Nek or Dong. He decided to go his own way. Vuk was firmly sure he wouldn't go to college. Becoming a professional player was his only goal.
+
+It was good that Inae remained by his side. She encouraged Vuk, who was on the verge of depression due to the loss of friends. Occasionally, Vuk would visit her, mostly to help with math and English. He felt a significant difference between their schools. The challenging problems of the third year for her were easily solved by Vuk in his first year at his school. As a volleyball player, she could enter university without entrance exams, but Mr. Park insisted on exams. Inae told Vuk that in America, all athletes take exams.
+
+Inae didn't understand why Vuk, who also taught her, didn't want to go to college. But she never questioned him about it. Vuk assumed that such delicacy had developed in her under the influence of her father.
+
+Despite Inae's presence, Vuk often felt lonely, especially because of Nok. The book of Vuk's game records and the money left by Nek gave Vuk a constant feeling of his presence. Vuk visited Juna twice: she somehow reminded him of Nek, at least that's how Vuk explained it to himself. He still had over ten thousand won, and Vuk hadn't figured out how to spend it yet. Time passed, and in two months, Vuk was supposed to graduate from school - it was already December."
+
+SEOUL CLUB
+
+The last winter holidays before graduation had arrived. Vuk walked slowly from school to home. On a pole, he saw a handwritten notice: "New Seoul Go Club Opened." The poster, made by an enthusiast, included a rough map showing the location of the club. Vuk had a free evening and decided to check it out.
+
+Probably because the club had just opened today, no one was playing in it yet. Vuk was warmly greeted by a middle-aged woman in traditional Korean clothing, heavily adorned with makeup. Despite the excess of paint on her face, an aura of elegance surrounded her.
+
+— Please come in. Oh! K-school student! We don't have any players yet; we opened just two hours ago. Would you like some coffee? Come this way. What rank do you play?
+
+— 1st kyu...
+
+— Really? I heard 1st kyu is quite a high rank.
+
+It was clear that she wasn't well-informed about the game. Vuk thought that she might be better off in a different business, perhaps opening a tea shop.
+
+— Where do you live? District K? Quite far from here. But I hope you can come more often. I heard that 1st kyu doesn't have to pay an entrance fee; is that correct?
+
+She seemed to be familiar with the basic rules of Go clubs. Vuk liked her soft voice and friendly attitude. It was just the perfect place for Vuk to play his games. In any case, there were no more partners for him in the US Club, and Mr. Kwon openly expressed his dissatisfaction with Vuk playing Go at home.
+
+— Don't you know how to play, ma'am?
+
+_ Not at all. What's wrong with that?
+
+Then why did you choose the Go club?
+— I used to be in the "wave" business. But I had to deal with so many dirty and dishonest people that, in the end, it became tiresome. I decided to engage in something more high-class.
+
+"High class?" Vuk recalled only Bass Park when he was thrown out of the motel room. Although if she referred to the "wave business" as managing a bar or something similar, Vuk was ready to agree. At some point, Vuk pondered on how to address her: it was not appropriate to call elders by their name. Something like "uncle," "teacher," etc., seemed more suitable, but even just "owner" didn't quite fit. After some thought, Vuk decided to address her as "Madam Hostess."
+
+
