@@ -15,22 +15,22 @@ import pyautogui as pg
 content = ''
 
 # Loop over the pages
-#for page in range(125):
-# Click on PDF viewer's 'next page' button
-pg.click(50,80)
+for page in range(125):
+  # Click on PDF viewer's 'next page' button
+  pg.click(50,80)
 
-# Open the screenshot image
-screenshot = pg.screenshot()
+  # Open the screenshot image
+  screenshot = pg.screenshot()
 
-# Use Tesseract to extract text with the specified language
-text = pytesseract.image_to_string(screenshot, lang='rus')
+  # Use Tesseract to extract text with the specified language
+  text = pytesseract.image_to_string(screenshot, lang='rus')
 
-# Strip text
-text = text.strip()
-print(text)
-# Save page
-content += text
+  # Strip text
+  text = text.strip()
+
+  # Save page
+  content += text
 
 # Write book in TXT format
-#with open('first-kyu-rus.txt', 'w') as f:
-#  f.write(content)
+with open('first-kyu-rus.txt', 'w') as f:
+  f.write(content)
